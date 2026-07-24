@@ -31,3 +31,5 @@ New, and hedged on purpose. The repository went public on 2026-06-26 and ships a
 ---
 
 *한국어: [소개](https://alfadur7.github.io/llm-wiki-newsroom/ko/) · [지식 팩토리 — 하니스 엔지니어링을 지식 생산에 적용하기](https://alfadur7.github.io/llm-wiki-newsroom/ko/knowledge-factory/) · [FAQ](https://alfadur7.github.io/llm-wiki-newsroom/ko/faq/)*
+
+<!-- profile README -->
